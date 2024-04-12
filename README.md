@@ -22,7 +22,7 @@ Sources not selected by the Quaia catalogue.
 Sources_in_Gaia_and_Quaia_Subsamples - This folder contains histograms of 3 subsamples (9 histograms of normalized parameters).
 Sources found commonly in Gaia and Quaia catlogue.
 
-# The rest of the folders contain three histograms each for the normalized parameters.  
+# Other_Subsamples
 
 Sources_in_LMC_,
 Sources_not_in_LMC,
@@ -30,6 +30,8 @@ Sources_in_SMC,
 Sources_not_in_SMC,
 Sources_in_External_Catalogues
 
-# Plots of the statistics of all the subsamples (648) are also given.
+# Statistics_Plots
+
+Plots of the statistics of all the subsamples (648).
 
 
