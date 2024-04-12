@@ -1,4 +1,4 @@
-# Subsample_histograms
+# Plots
 Histograms_of_full_samples_and_subsamples
 
 The histograms are named with the file name, the normalized parameter, and a number.
