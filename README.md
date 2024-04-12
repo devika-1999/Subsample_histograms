@@ -8,8 +8,7 @@ The histogram is labeled with the condition used for making the subsample.
 # Folders:
 
 Astrometric_Selection_Subsamples - This folder contains histograms of 218 subsamples (654 histograms of normalized parameters)
-Astrometric selection includes the 1897754 quasars in Gaia DR3. They are indicated by
-the astrometric_selection_flag in the qso_candidates table.
+Astrometric selection includes the 1897754 quasars in Gaia DR3. They are indicated by the astrometric_selection_flag in the qso_candidates table.
 
 Gaia_CRF3_Sources_Subsamples - This folder contains histograms of 218 subsamples (654 histograms of normalized parameters).
 QSO candidates used to define Gaia CRF3.
@@ -29,7 +28,7 @@ Sources_in_External_Catalogues
 
 # Statistics_Plots
 
-Plots of the statistics of all the subsamples (648).
+Plots of the statistics (mean, median, standard deviation, skewness, and kurtosis) of all the subsamples (648).
 
 
 
