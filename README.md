@@ -19,8 +19,8 @@ QSO candidates not used to define Gaia CRF3.
 
 # Other_Subsamples
 
-Sources_in_Gaia_not_in_Quaia_Subsamples,
-Sources_in_Gaia_and_Quaia_Subsamples,
+Sources_in_Gaia_not_in_Quaia,
+Sources_in_Gaia_and_Quaia,
 Sources_in_LMC_,
 Sources_not_in_LMC,
 Sources_in_SMC,
